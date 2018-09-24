@@ -1,0 +1,14 @@
+[
+    {
+        "colName": "appleId",
+        "startrow": 2,         
+        "endrow": 86,         
+        "column": "L"           
+    },
+    {
+        "colName": "googleId",
+        "startrow": 2,
+        "endrow": 86, 
+        "column": "N"
+    }
+]
